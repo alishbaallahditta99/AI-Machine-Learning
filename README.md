@@ -1,1 +1,22 @@
 # AI-Machine-Learning
+# AI/ML Internship Tasks
+
+## Task 1: Iris Dataset Exploration
+
+### Objective
+To explore and visualize the Iris dataset.
+
+### Tools Used
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+
+### Visualizations
+- Scatter Plot
+- Histogram
+- Box Plot
+
+### Key Findings
+- Petal features separate species clearly
+- Dataset has minimal outliers
