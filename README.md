@@ -66,3 +66,55 @@ Pandas
 Scikit-learn
 Seaborn
 Matplotlib
+  ### House Price Prediction using Machine Learning
+# Task 6 – AI/ML Project
+
+This project predicts house prices using machine learning models based on features such as area (square footage), number of bedrooms, and location.
+
+# Objective
+
+To build a regression model that can accurately predict house prices using historical housing data and evaluate model performance using MAE, RMSE, and R² Score.
+
+# Dataset
+ Source: Kaggle
+ Dataset Link: https://www.kaggle.com/datasets/zafarali27/house-price-prediction-dataset
+# Features Used:
+- Area (Square Footage)
+- Bedrooms
+- Bathrooms
+- Location
+- Other property attributes
+- Price (Target Variable)
+  # Technologies Used
+- Python 
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+  #  Workflow
+# 1️  Data Preprocessing
+- Handled missing values (median/mode imputation)
+- Encoded categorical variables (One-Hot Encoding)
+- Applied feature scaling (StandardScaler)
+- Split dataset into training and testing sets
+  # 2  Exploratory Data Analysis (EDA)
+- Data distribution analysis
+- Correlation understanding
+- Feature relationship visualization
+# 3️ Model Training
+
+Two regression models were used:
+
+-  Linear Regression
+- Gradient Boosting Regressor
+# 4️ Model Evaluation Metrics
+
+Models were evaluated using:
+
+- Mean Absolute Error (MAE)
+-  Root Mean Squared Error (RMSE)
+-  R² Score
+# 5️ Visualization
+- Actual vs Predicted Price comparison
+- Model performance comparison
