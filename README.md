@@ -1,39 +1,34 @@
-AI-Machine-Learning
-Task 1: Iris Dataset Exploration
-Objective
-To explore and visualize the Iris dataset.
+### Task 1: Iris Dataset Exploration
+## Objective
 
-Tools Used
-Python
-Pandas
-Seaborn
-Matplotlib
-Visualizations
-Scatter Plot
-Histogram
-Box Plot
-Key Findings
-Petal features separate species clearly
-Dataset has minimal outliers
+To explore and visualize the Iris dataset in order to understand feature relationships and species distribution.
 
+### Tools & Libraries
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+ ##Visualizations
+- Scatter Plot
+- Histogram
+- Box Plot
+## Key Findings
+- Petal features (length & width) clearly separate different species.
+- Dataset contains minimal outliers, making it clean and reliable for analysis.
+### Task 2: Stock Price Prediction
+## Objective
 
-##Task 2: Stock Price Prediction
-Objective
-Predict next day's stock closing price using historical data.
+To predict the next day's stock closing price using historical stock data.
 
-Dataset
-Yahoo Finance API (yfinance)
-
-Stock Used
-Apple Inc. (AAPL)
-
-Models Used
-Linear Regression
-Random Forest
-Results
-Random Forest performed better than Linear Regression in accuracy and error metrics.
-
-
+## Dataset
+- Source: Yahoo Finance API (yfinance)
+- Stock Used: Apple Inc. (AAPL)
+## Models Used
+- Linear Regression
+- Random Forest
+  ## Results
+- Random Forest performed better than Linear Regression.
+- Achieved higher accuracy and lower error metrics.
 # Task 3: Heart Disease Prediction
 
 ## Objective
